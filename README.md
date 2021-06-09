@@ -14,4 +14,5 @@ Create vaccine slot alerts for yourself using NodeJS and a telegram Bot.
 -   Get vaccined 💉
 
 ![](env.png)
+
 Set up your env file like this
