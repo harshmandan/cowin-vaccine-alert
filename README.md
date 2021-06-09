@@ -1,6 +1,6 @@
 # cowin-vaccine-alert
 
-![](banner.png)
+![](banner.jpg)
 
 Create vaccine slot alerts for yourself using NodeJS and a telegram Bot.
 
